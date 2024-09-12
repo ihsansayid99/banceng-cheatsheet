@@ -1,0 +1,1 @@
+export const DECK_URL = 'https://deckofcardsapi.com/api/deck'
