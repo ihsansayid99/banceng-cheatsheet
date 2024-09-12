@@ -7,4 +7,4 @@ export const config: ThemeConfig = {
 };
 
 export * from "./colors";
-export * from "./button";
+export * from "./Button";
